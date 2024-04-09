@@ -1,4 +1,4 @@
-# ../link to website
+# [link to website]
 
 Welcome to Yavari, where we provide the highest quality organic handcrafted oils to nourish and replenish your hair and skin naturally. Our mission is to offer sustainable, ethically sourced products that make you feel good inside and out. 
 
