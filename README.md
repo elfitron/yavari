@@ -10,16 +10,16 @@ with our handcrafted oils, you can trust that you're receiving the purest ingred
 # table of contents
 
 1. [user experience](https://github.com/elfitron/yavari/blob/main/README.md#user-experience)
-   - user stories
-2. design
-   - wireframes
-   - colours
-4. testing
-   - html validation
-   - css validation
-   - lighthouse
-5. technologies
-6. future features
+   - [user stories](https://github.com/elfitron/yavari/blob/main/README.md#user-stories)
+2. [design](https://github.com/elfitron/yavari/blob/main/README.md#design)
+   - [wireframes](https://github.com/elfitron/yavari/blob/main/README.md#wireframes)
+   - [colours](https://github.com/elfitron/yavari/blob/main/README.md#colours)
+4. [testing](https://github.com/elfitron/yavari/blob/main/README.md#testing)
+   - [html validation](https://github.com/elfitron/yavari/blob/main/README.md#html-validation)
+   - [css validation](https://github.com/elfitron/yavari/blob/main/README.md#css-validation)
+   - [lighthouse](https://github.com/elfitron/yavari/blob/main/README.md#lighthouse)
+5. [technologies](https://github.com/elfitron/yavari/blob/main/README.md#technologies)
+6. [future features](https://github.com/elfitron/yavari/blob/main/README.md#future-features)
 
 # user experience
 ## user stories
