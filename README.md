@@ -9,7 +9,7 @@ With our handcrafted oils, you can trust that you're receiving the purest ingred
 # table of contents
 
 1. User Experience
-   - Target audience
+   - User Stories
 2. Design
    - Colours
    - Wireframes
@@ -17,7 +17,12 @@ With our handcrafted oils, you can trust that you're receiving the purest ingred
    - HTML Validation
    - CSS Validation
    - Lighthouse
-4. Final notes
+4. Technologies
+5. Future Features
+
+# User Experience
+## User Stories
+
 
 
 
