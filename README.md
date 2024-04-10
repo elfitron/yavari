@@ -9,7 +9,7 @@ with our handcrafted oils, you can trust that you're receiving the purest ingred
 
 # table of contents
 
-1. [user experience](# user experience)
+1. [user experience]
    - user stories
 2. design
    - wireframes
