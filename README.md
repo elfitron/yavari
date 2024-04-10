@@ -12,21 +12,19 @@ with our handcrafted oils, you can trust that you're receiving the purest ingred
 1. user experience
    - user stories
 2. design
-   - colours
    - wireframes
-3. testing
+   - colours
+4. testing
    - html validation
    - css validation
    - lighthouse
-4. technologies
-5. future features
+5. technologies
+6. future features
 
 # user experience
 ## user stories
 
 # design
-## colours
-![yavari colour palette3](https://github.com/elfitron/yavari/assets/161019521/63108bfd-a688-44b6-8e42-a5bdb291cf2b)
 
 ## wireframes
 ### homepage mockup
@@ -37,6 +35,9 @@ with our handcrafted oils, you can trust that you're receiving the purest ingred
 
 ### contact page mockup
 ![screenshot of contact page mockup](https://share.balsamiq.com/c/2GWew3yDnByuk6JdNigTmT.png)
+
+## colours
+![yavari colour palette3](https://github.com/elfitron/yavari/assets/161019521/63108bfd-a688-44b6-8e42-a5bdb291cf2b)
 
 # testing
 
