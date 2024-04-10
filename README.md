@@ -49,25 +49,20 @@ with our handcrafted oils, you can trust that you're receiving the purest ingred
 
 # technologies
 
-
 - [HTML](https://web.dev/learn/html/overview/)- provided structure and semantic elements 
-- [CSS] - styled html elements 
-
-Visual Studio Code - for editing the code
-
-Balsamiq used to create wireframes
-Canva - used to create home page hero image
-Glorify - used to create all product images
-WEBP - to convert images to webp format
-Google Fonts - to import Adamina font
-Font Awesome - to create favicons
-GitHub - hosting site used to store the code repository
-Google Chrome Lighthouse - to test website performance and accessibility
-Google Chrome Developer Tools - for testing, debugging, and ensuring responsiveness
-W3C HTML Validator- to check for errors in the HTML code
-W3C CSS Validator - to check for errors in the CSS code
-FabForm used for backend on the contact form
-
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - styled html elements 
+- [Visual Studio Code](https://code.visualstudio.com/) - for editing the code
+- [Balsamiq](https://balsamiq.com/) used to create wireframes
+- [Canva](https://www.canva.com/) - used to create home page hero image
+- [Glorify](https://glorify.com/) - used to create all product images
+- [Online Convert](https://image.online-convert.com/convert-to-webp) - to convert images to webp format
+- [Google Fonts](https://fonts.google.com/) - to import Adamina font
+- [Font Awesome](https://fontawesome.com/) - to create favicons
+- [GitHub](https://github.com/) - hosting site used to store the code repository
+- [Google Chrome Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) - to test website performance and accessibility
+- [Google Chrome Developer Tools](https://developer.chrome.com/docs/devtools/overview/) for testing, debugging, and ensuring responsiveness
+- [W3C HTML Validator](https://validator.w3.org/nu/) - to check for errors in the HTML code
+- [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) - to check for errors in the CSS code
 
 # future features
 
