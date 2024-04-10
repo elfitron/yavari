@@ -28,13 +28,13 @@ with our handcrafted oils, you can trust that you're receiving the purest ingred
 [colour palette picture]
 
 ## wireframes
-homepage mockup
+### homepage mockup
 ![screenshot of homepage mockup](https://share.balsamiq.com/c/rYU2L8x4rinogHKddZDbD3.png)
 
-product page mockup
+### product page mockup
 ![screenshot of product page mockup](https://share.balsamiq.com/c/xyQxzN73zdAbYgvv4QXK9P.png)
 
-contact page mockup
+### contact page mockup
 ![screenshot of contact page mockup](https://share.balsamiq.com/c/2GWew3yDnByuk6JdNigTmT.png)
 
 # testing
