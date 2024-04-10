@@ -28,13 +28,19 @@ with our handcrafted oils, you can trust that you're receiving the purest ingred
 [colour palette picture]
 
 ## wireframes
+https://share.balsamiq.com/c/rYU2L8x4rinogHKddZDbD3.png
+https://share.balsamiq.com/c/xyQxzN73zdAbYgvv4QXK9P.png
+https://share.balsamiq.com/c/2GWew3yDnByuk6JdNigTmT.png
 
 # testing
 ## html validation
+
 ## css validation
+
 ## lighthouse
 
 # technologies
+
 # future features
 
 
