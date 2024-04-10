@@ -38,9 +38,12 @@ with our handcrafted oils, you can trust that you're receiving the purest ingred
 ![screenshot of contact page mockup](https://share.balsamiq.com/c/2GWew3yDnByuk6JdNigTmT.png)
 
 # testing
+
 ## html validation
 
 ## css validation
+![css errors](https://github.com/elfitron/yavari/assets/161019521/8fccc25a-9835-494b-8059-c4b5c450aa71)
+
 
 ## lighthouse
 
