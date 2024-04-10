@@ -25,7 +25,7 @@ with our handcrafted oils, you can trust that you're receiving the purest ingred
 
 # design
 ## colours
-![colour palette photo]("")
+![yavari colour palette3](https://github.com/elfitron/yavari/assets/161019521/63108bfd-a688-44b6-8e42-a5bdb291cf2b)
 
 ## wireframes
 ### homepage mockup
