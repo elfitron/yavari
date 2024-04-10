@@ -9,14 +9,14 @@ With our handcrafted oils, you can trust that you're receiving the purest ingred
 # table of contents
 
 1. User Experience
-   -Target audience
+   - Target audience
 2. Design
-   -Colours
-   -Wireframes
+   - Colours
+   - Wireframes
 3. Testing
-   -HTML Validation
-   -CSS Validation
-   -Lighthouse
+   - HTML Validation
+   - CSS Validation
+   - Lighthouse
 4. Final notes
 
 
