@@ -23,6 +23,9 @@ with our handcrafted oils, you can trust that you're receiving the purest ingred
 
 # user experience
 ## user stories
+qwertyuiopasdfghjklzxcvbnm
+qwertyuiopasdfghjklzxcvbnm
+qwertyuiopasdfghjklzxcvbnm
 
 # design
 
@@ -42,12 +45,18 @@ with our handcrafted oils, you can trust that you're receiving the purest ingred
 # testing
 
 ## html validation
+qwertyuiopasdfghjklzxcvbnm
+qwertyuiopasdfghjklzxcvbnm
+qwertyuiopasdfghjklzxcvbnm
 
 ## css validation
 ![css errors](https://github.com/elfitron/yavari/assets/161019521/8fccc25a-9835-494b-8059-c4b5c450aa71)
 
 
 ## lighthouse
+qwertyuiopasdfghjklzxcvbnm
+qwertyuiopasdfghjklzxcvbnm
+qwertyuiopasdfghjklzxcvbnm
 
 # technologies
 
@@ -67,6 +76,9 @@ with our handcrafted oils, you can trust that you're receiving the purest ingred
 - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) - to check for errors in the CSS code
 
 # future features
+qwertyuiopasdfghjklzxcvbnm
+qwertyuiopasdfghjklzxcvbnm
+qwertyuiopasdfghjklzxcvbnm
 
 
 
