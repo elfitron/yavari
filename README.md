@@ -48,6 +48,24 @@ with our handcrafted oils, you can trust that you're receiving the purest ingred
 ## lighthouse
 
 # technologies
+'''efknsldknsa
+
+[HTML](https://web.dev/learn/html/overview/)- provided structure and semantic elements 
+[CSS] - styled html elements 
+Visual Studio Code - for editing the code
+Balsamiq used to create wireframes
+Canva - used to create home page hero image
+Glorify - used to create all product images
+WEBP - to convert images to webp format
+Google Fonts - to import Adamina font
+Font Awesome - to create favicons
+GitHub - hosting site used to store the code repository
+Google Chrome Lighthouse - to test website performance and accessibility
+Google Chrome Developer Tools - for testing, debugging, and ensuring responsiveness
+W3C HTML Validator- to check for errors in the HTML code
+W3C CSS Validator - to check for errors in the CSS code
+FabForm used for backend on the contact form
+
 
 # future features
 
