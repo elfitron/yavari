@@ -1,8 +1,8 @@
 # [yavari](...)
 
-welcome to yavari, where we provide the highest quality organic oils to nourish and replenish your hair and skin naturally. our mission is to offer sustainable, ethically sourced products that make you feel good inside and out. 
+#### welcome to yavari, where we provide the highest quality organic oils to nourish and replenish your hair and skin naturally. our mission is to offer sustainable, ethically sourced products that make you feel good inside and out. 
 
-with our handcrafted oils, you can trust that you're receiving the purest ingredients that mother nature has to offer, free from harmful chemicals and toxins. experience the difference in your skin and hair with our nourishing formulas designed to revitalize and rejuvenate.
+#### with our handcrafted oils, you can trust that you're receiving the purest ingredients that mother nature has to offer, free from harmful chemicals and toxins. experience the difference in your skin and hair with our nourishing formulas designed to revitalize and rejuvenate.
 
 ![responsive mockup](https://github.com/elfitron/yavari/assets/161019521/75541325-4d72-4155-817c-de1c2c8b7caa)
 
@@ -41,10 +41,10 @@ qwertyuiopasdfghjklzxcvbnm
 #### homepage mockup
 ![screenshot of homepage mockup](https://share.balsamiq.com/c/rYU2L8x4rinogHKddZDbD3.png)
 
-### product page mockup
+#### product page mockup
 ![screenshot of product page mockup](https://share.balsamiq.com/c/xyQxzN73zdAbYgvv4QXK9P.png)
 
-### contact page mockup
+#### contact page mockup
 ![screenshot of contact page mockup](https://share.balsamiq.com/c/2GWew3yDnByuk6JdNigTmT.png)
 
 ## colours
