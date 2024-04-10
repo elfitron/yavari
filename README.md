@@ -25,6 +25,7 @@ with our handcrafted oils, you can trust that you're receiving the purest ingred
 
 # design
 ## colours
+[colour palette picture]
 
 ## wireframes
 
@@ -39,5 +40,5 @@ with our handcrafted oils, you can trust that you're receiving the purest ingred
 
 
 
-[colour palette picture]
+
 
