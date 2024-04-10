@@ -27,6 +27,14 @@ qwertyuiopasdfghjklzxcvbnm
 qwertyuiopasdfghjklzxcvbnm
 qwertyuiopasdfghjklzxcvbnm
 
+qwertyuiopasdfghjklzxcvbnm
+qwertyuiopasdfghjklzxcvbnm
+qwertyuiopasdfghjklzxcvbnm
+
+qwertyuiopasdfghjklzxcvbnm
+qwertyuiopasdfghjklzxcvbnm
+qwertyuiopasdfghjklzxcvbnm
+
 # design
 
 ## wireframes
@@ -49,11 +57,19 @@ qwertyuiopasdfghjklzxcvbnm
 qwertyuiopasdfghjklzxcvbnm
 qwertyuiopasdfghjklzxcvbnm
 
+qwertyuiopasdfghjklzxcvbnm
+qwertyuiopasdfghjklzxcvbnm
+qwertyuiopasdfghjklzxcvbnm
+
 ## css validation
 ![css errors](https://github.com/elfitron/yavari/assets/161019521/8fccc25a-9835-494b-8059-c4b5c450aa71)
 
 
 ## lighthouse
+qwertyuiopasdfghjklzxcvbnm
+qwertyuiopasdfghjklzxcvbnm
+qwertyuiopasdfghjklzxcvbnm
+
 qwertyuiopasdfghjklzxcvbnm
 qwertyuiopasdfghjklzxcvbnm
 qwertyuiopasdfghjklzxcvbnm
@@ -80,6 +96,9 @@ qwertyuiopasdfghjklzxcvbnm
 qwertyuiopasdfghjklzxcvbnm
 qwertyuiopasdfghjklzxcvbnm
 
+qwertyuiopasdfghjklzxcvbnm
+qwertyuiopasdfghjklzxcvbnm
+qwertyuiopasdfghjklzxcvbnm
 
 
 
