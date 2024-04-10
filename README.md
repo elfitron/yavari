@@ -48,11 +48,14 @@ with our handcrafted oils, you can trust that you're receiving the purest ingred
 ## lighthouse
 
 # technologies
-'''efknsldknsa
+
 
 [HTML](https://web.dev/learn/html/overview/)- provided structure and semantic elements 
+
 [CSS] - styled html elements 
+
 Visual Studio Code - for editing the code
+
 Balsamiq used to create wireframes
 Canva - used to create home page hero image
 Glorify - used to create all product images
