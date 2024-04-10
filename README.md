@@ -61,20 +61,20 @@ qwertyuiopasdfghjklzxcvbnm
 
 # technologies
 
-- [HTML](https://web.dev/learn/html/overview/)- to provide structure and semantic elements 
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - to style html elements 
-- [Visual Studio Code](https://code.visualstudio.com/) - to edit the code
-- [Balsamiq](https://balsamiq.com/) - to create wireframes
-- [Canva](https://www.canva.com/) - to create home page hero image
-- [Glorify](https://glorify.com/) - to create all product images
-- [Online Convert](https://image.online-convert.com/convert-to-webp) - to convert images to webp format
-- [Google Fonts](https://fonts.google.com/) - to import Adamina font
-- [Font Awesome](https://fontawesome.com/) - to create favicons
-- [GitHub](https://github.com/) - hosting site used to store the code repository
-- [Google Chrome Lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) - to test website performance and accessibility
-- [Google Chrome Developer Tools](https://developer.chrome.com/docs/devtools/overview/) - to test, debug and ensure responsiveness
-- [W3C HTML Validator](https://validator.w3.org/nu/) - to check for errors in the HTML code
-- [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) - to check for errors in the CSS code
+- [html](https://web.dev/learn/html/overview/)- to provide structure and semantic elements 
+- [css](https://developer.mozilla.org/en-US/docs/Web/CSS) - to style html elements 
+- [visual studio code](https://code.visualstudio.com/) - to edit the code
+- [balsamiq](https://balsamiq.com/) - to create wireframes
+- [canva](https://www.canva.com/) - to create home page hero image
+- [glorify](https://glorify.com/) - to create all product images
+- [online convert](https://image.online-convert.com/convert-to-webp) - to convert images to webp format
+- [google fonts](https://fonts.google.com/) - to import Adamina font
+- [font awesome](https://fontawesome.com/) - to create favicons
+- [gitHub](https://github.com/) - hosting site used to store the code repository
+- [google chrome lighthouse](https://developer.chrome.com/docs/lighthouse/overview/) - to test website performance and accessibility
+- [google chrome developer Tools](https://developer.chrome.com/docs/devtools/overview/) - to test, debug and ensure responsiveness
+- [w3c html validator](https://validator.w3.org/nu/) - to check for errors in the HTML code
+- [w3c css validator](https://jigsaw.w3.org/css-validator/) - to check for errors in the CSS code
 
 # future features
 qwertyuiopasdfghjklzxcvbnm
