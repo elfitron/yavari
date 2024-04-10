@@ -50,9 +50,8 @@ with our handcrafted oils, you can trust that you're receiving the purest ingred
 # technologies
 
 
-[HTML](https://web.dev/learn/html/overview/)- provided structure and semantic elements 
-
-[CSS] - styled html elements 
+- [HTML](https://web.dev/learn/html/overview/)- provided structure and semantic elements 
+- [CSS] - styled html elements 
 
 Visual Studio Code - for editing the code
 
