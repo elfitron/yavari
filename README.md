@@ -34,7 +34,7 @@ qwertyuiopasdfghjklzxcvbnm
 ![screenshot of homepage mockup](https://share.balsamiq.com/c/sMPoFm4bvdC1VwT4ULpGBF.png) 
 
 #### product page mockup
-![screenshot of product page mockup](https://share.balsamiq.com/c/4BkoasSVf3s5bTwWwSz7S9.png)
+![screenshot of product page mockup](https://share.balsamiq.com/c/dyheEArtvMWSXS3372fnE1.png)
 
 #### contact page mockup
 ![screenshot of contact page mockup](https://share.balsamiq.com/c/i1pzKZwcgAGBpNebY5QDWV.png)
