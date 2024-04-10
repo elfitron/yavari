@@ -1,6 +1,6 @@
 # [yavari](...)
 
-welcome toyYavari, where we provide the highest quality organic oils to nourish and replenish your hair and skin naturally. our mission is to offer sustainable, ethically sourced products that make you feel good inside and out. 
+welcome to yavari, where we provide the highest quality organic oils to nourish and replenish your hair and skin naturally. our mission is to offer sustainable, ethically sourced products that make you feel good inside and out. 
 
 with our handcrafted oils, you can trust that you're receiving the purest ingredients that mother nature has to offer, free from harmful chemicals and toxins. experience the difference in your skin and hair with our nourishing formulas designed to revitalize and rejuvenate.
 
