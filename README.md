@@ -4,7 +4,8 @@ welcome to yavari, where we provide the highest quality organic oils to nourish 
 
 with our handcrafted oils, you can trust that you're receiving the purest ingredients that mother nature has to offer, free from harmful chemicals and toxins. experience the difference in your skin and hair with our nourishing formulas designed to revitalize and rejuvenate.
 
-![responsive mockup](https://github.com/elfitron/yavari/assets/161019521/3a701034-8a83-4f67-9a42-94b69fc2a139)
+![responsive mockup](https://github.com/elfitron/yavari/assets/161019521/75541325-4d72-4155-817c-de1c2c8b7caa)
+
 
 # table of contents
 
