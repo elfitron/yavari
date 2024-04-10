@@ -38,7 +38,7 @@ qwertyuiopasdfghjklzxcvbnm
 # design
 
 ## wireframes
-### homepage mockup
+#### homepage mockup
 ![screenshot of homepage mockup](https://share.balsamiq.com/c/rYU2L8x4rinogHKddZDbD3.png)
 
 ### product page mockup
