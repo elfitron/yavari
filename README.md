@@ -1,4 +1,4 @@
-# ![yavari](https://elfitron.github.io/yavari/index.html)
+# [yavari](https://elfitron.github.io/yavari/index.html)
 
 #### welcome to yavari, where we provide the highest quality organic oils to nourish and replenish your hair and skin naturally. our mission is to offer sustainable, ethically sourced products that make you feel good inside and out. 
 
