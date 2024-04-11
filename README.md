@@ -45,13 +45,16 @@ qwertyuiopasdfghjklzxcvbnm
 # testing
 
 ## html validation
-qwertyuiopasdfghjklzxcvbnm
-qwertyuiopasdfghjklzxcvbnm
-qwertyuiopasdfghjklzxcvbnm
-
+![html index errors](https://github.com/elfitron/yavari/assets/161019521/058dbb35-bd06-40e3-a58e-ebc367183d6e)
+![html product errors](https://github.com/elfitron/yavari/assets/161019521/fc5365d2-9f61-4f5f-ba0b-7ace9fe08379)
+![html index clear](https://github.com/elfitron/yavari/assets/161019521/443e39c4-d157-47ed-8935-dd3581a9a089)
+![html products clear](https://github.com/elfitron/yavari/assets/161019521/3fb4626e-d4fa-49d9-bf30-76577e85eaf2)
+![html contact clear](https://github.com/elfitron/yavari/assets/161019521/a120e34f-33ce-4f26-861a-97f31b8984e2)
 
 ## css validation
 ![css errors](https://github.com/elfitron/yavari/assets/161019521/8fccc25a-9835-494b-8059-c4b5c450aa71)
+![css clear](https://github.com/elfitron/yavari/assets/161019521/89248ce9-4f1b-4e60-84a3-504ddbf56a75)
+
 
 
 ## lighthouse
