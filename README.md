@@ -21,12 +21,12 @@
 5. [technologies](https://github.com/elfitron/yavari/blob/main/README.md#technologies)
 6. [future features](https://github.com/elfitron/yavari/blob/main/README.md#future-features)
 
+
 # user experience
 ## user stories
 - as a user who values natural ingredients, i want detailed information about the sourcing and production processes of the organic oils, so i can trust their purity and quality.
 - as a sustainability-minded consumer, i want to learn about the company's eco-friendly practices and ethical sourcing of ingredients.
 - as a user with dry skin and frizzy hair, i want to find organic oil products that provide deep hydration and nourishment without leaving a greasy residue, to improve the health and appearance of my skin and hair
-
 
 
 # design
@@ -44,6 +44,7 @@
 ## colours
 ![yavari colour palette3](https://github.com/elfitron/yavari/assets/161019521/63108bfd-a688-44b6-8e42-a5bdb291cf2b)
 
+
 # testing
 
 ## html validation
@@ -53,23 +54,18 @@
 ![html products clear](https://github.com/elfitron/yavari/assets/161019521/3fb4626e-d4fa-49d9-bf30-76577e85eaf2)
 ![html contact clear](https://github.com/elfitron/yavari/assets/161019521/a120e34f-33ce-4f26-861a-97f31b8984e2)
 
+
 ## css validation
 ![css errors](https://github.com/elfitron/yavari/assets/161019521/201587b6-1796-4e8a-8305-a411c7d29a77)
 ![css clear](https://github.com/elfitron/yavari/assets/161019521/89248ce9-4f1b-4e60-84a3-504ddbf56a75)
 
 
-
 ## lighthouse
-mobile
 ![mobile](https://github.com/elfitron/yavari/assets/161019521/c6bf109a-5b3a-495d-a051-bf315bd097e3)
-
-desktop
 ![desktop](https://github.com/elfitron/yavari/assets/161019521/fdf25fb0-0992-40d0-998b-eef73cd4cc86)
 
 
-
 # technologies
-
 - [html](https://web.dev/learn/html/overview/)- to provide structure and semantic elements 
 - [css](https://developer.mozilla.org/en-US/docs/Web/CSS) - to style html elements 
 - [visual studio code](https://code.visualstudio.com/) - to edit the code
@@ -84,6 +80,7 @@ desktop
 - [google chrome developer Tools](https://developer.chrome.com/docs/devtools/overview/) - to test, debug and ensure responsiveness
 - [w3c html validator](https://validator.w3.org/nu/) - to check for errors in the HTML code
 - [w3c css validator](https://jigsaw.w3.org/css-validator/) - to check for errors in the CSS code
+
 
 # future features
 - blog/article section
