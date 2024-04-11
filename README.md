@@ -61,8 +61,6 @@
 
 ## lighthouse
 qwertyuiopasdfghjklzxcvbnm
-qwertyuiopasdfghjklzxcvbnm
-qwertyuiopasdfghjklzxcvbnm
 
 # technologies
 
@@ -82,10 +80,11 @@ qwertyuiopasdfghjklzxcvbnm
 - [w3c css validator](https://jigsaw.w3.org/css-validator/) - to check for errors in the CSS code
 
 # future features
-qwertyuiopasdfghjklzxcvbnm
-qwertyuiopasdfghjklzxcvbnm
-qwertyuiopasdfghjklzxcvbnm
-
+- blog/article section
+- subscription service
+- live chat support
+- online store expansion
+- customer reviews/testimonials
 
 
 
