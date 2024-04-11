@@ -60,7 +60,10 @@
 
 
 ## lighthouse
+mobile
 ![mobile](https://github.com/elfitron/yavari/assets/161019521/c6bf109a-5b3a-495d-a051-bf315bd097e3)
+
+desktop
 ![desktop](https://github.com/elfitron/yavari/assets/161019521/fdf25fb0-0992-40d0-998b-eef73cd4cc86)
 
 
