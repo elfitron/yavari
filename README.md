@@ -25,9 +25,9 @@
 
 # user experience
 ## user stories
-- as a user who values natural ingredients, i want detailed information about the sourcing and production processes of the organic oils, so i can trust their purity and quality.
-- as a sustainability-minded consumer, i want to learn about the company's eco-friendly practices and ethical sourcing of ingredients.
-- as a user with dry skin and frizzy hair, i want to find organic oil products that provide deep hydration and nourishment without leaving a greasy residue, to improve the health and appearance of my skin and hair
+- as a user who values natural ingredients - i want detailed information about the sourcing and production processes of the organic oils, so i can trust their purity and quality.
+- as a sustainability-minded consumer - i want to learn about the company's eco-friendly practices and ethical sourcing of ingredients.
+- as a user with dry skin and frizzy hair - i want to find organic oil products that provide deep hydration and nourishment without leaving a greasy residue, to improve the health and appearance of my skin and hair
 
 
 # design
